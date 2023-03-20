@@ -11,6 +11,7 @@
 		30C5CBF829C46B2F00343778 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C5CBF729C46B2F00343778 /* ContentView.swift */; };
 		30C5CBFA29C46B3000343778 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30C5CBF929C46B3000343778 /* Assets.xcassets */; };
 		30C5CBFD29C46B3000343778 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30C5CBFC29C46B3000343778 /* Preview Assets.xcassets */; };
+		30C5CC0429C577D500343778 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C5CC0329C577D500343778 /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		30C5CBF729C46B2F00343778 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		30C5CBF929C46B3000343778 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30C5CBFC29C46B3000343778 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		30C5CC0329C577D500343778 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				30C5CBF529C46B2F00343778 /* TimerAppApp.swift */,
 				30C5CBF729C46B2F00343778 /* ContentView.swift */,
+				30C5CC0329C577D500343778 /* SettingView.swift */,
 				30C5CBF929C46B3000343778 /* Assets.xcassets */,
 				30C5CBFB29C46B3000343778 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30C5CC0429C577D500343778 /* SettingView.swift in Sources */,
 				30C5CBF829C46B2F00343778 /* ContentView.swift in Sources */,
 				30C5CBF629C46B2F00343778 /* TimerAppApp.swift in Sources */,
 			);
